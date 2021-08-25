@@ -2,5 +2,5 @@ incializa GIT en una carpeta:
         git init
 poner usuario
         git config --name "nombre"
-poner email
+poner EMAIL
         git config --email "correo"
