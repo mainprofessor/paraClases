@@ -1,2 +1,4 @@
 incializa GIT en una carpeta:
         git init
+poner usuario
+        git config --name "nombre"
