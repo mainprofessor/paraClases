@@ -1,0 +1,2 @@
+incializa GIT en una carpeta:
+        git init
