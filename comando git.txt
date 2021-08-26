@@ -4,3 +4,5 @@ poner usuario
         git config --name "nombre"
 poner EMAIL
         git config --email "correo"
+revisar historial de commit
+        git log
