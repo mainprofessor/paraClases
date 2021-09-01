@@ -2,3 +2,4 @@ esta es la primer linea del archivo
 ahora si esta es otra linea
 para mostrar el uso del comando diff
 agregarle algo
+esta linea es para un conflicto
