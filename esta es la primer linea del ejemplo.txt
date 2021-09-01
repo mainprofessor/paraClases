@@ -3,5 +3,5 @@ ahora si esta es otra linea
 para mostrar el uso del comando diff
 agregarle algo
 
-esta linea SERÁ UN PROBLEMA (conflicto)
+esta linea es YA NO ES un conflicto
 
