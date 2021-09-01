@@ -6,4 +6,6 @@ poner EMAIL
         git config --email "correo"
 revisar historial de commit
         git log
+
 ESTO GENERARÁ UN CONFLICTO :( )
+
