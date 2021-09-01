@@ -6,3 +6,5 @@ poner EMAIL
         git config --email "correo"
 revisar historial de commit
         git log
+crear una una rama
+        git branch <nombre_de_la_rama>
